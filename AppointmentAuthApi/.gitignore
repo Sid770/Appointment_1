@@ -1,0 +1,35 @@
+## Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+## IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.iml
+
+## Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+## Database
+*.mdf
+*.ldf
+*.db
+
+## Logs
+*.log
+
+## Dependencies
+node_modules/
+packages/
+.dotnet/
+
+## Environment variables
+.env
+.env.local
